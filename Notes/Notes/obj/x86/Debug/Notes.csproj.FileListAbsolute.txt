@@ -1,0 +1,49 @@
+C:\Documents and Settings\StraiB01\Local Settings\Application Data\Temporary Projects\Notes\bin\Debug\Notes.exe
+C:\Documents and Settings\StraiB01\Local Settings\Application Data\Temporary Projects\Notes\bin\Debug\Notes.pdb
+C:\Documents and Settings\StraiB01\Local Settings\Application Data\Temporary Projects\Notes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\StraiB01\Local Settings\Application Data\Temporary Projects\Notes\obj\x86\Debug\Notes.Form1.resources
+C:\Documents and Settings\StraiB01\Local Settings\Application Data\Temporary Projects\Notes\obj\x86\Debug\Notes.Properties.Resources.resources
+C:\Documents and Settings\StraiB01\Local Settings\Application Data\Temporary Projects\Notes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\StraiB01\Local Settings\Application Data\Temporary Projects\Notes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\StraiB01\Local Settings\Application Data\Temporary Projects\Notes\obj\x86\Debug\Notes.exe
+C:\Documents and Settings\StraiB01\Local Settings\Application Data\Temporary Projects\Notes\obj\x86\Debug\Notes.pdb
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\bin\Debug\Notes.exe
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\bin\Debug\Notes.pdb
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.Form1.resources
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.Properties.Resources.resources
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.exe
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.pdb
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\bin\Debug\Notes.exe.config
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\StraiB01\my documents\visual studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\bin\Debug\Notes.exe.config
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\bin\Debug\Notes.exe
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\bin\Debug\Notes.pdb
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.Form1.resources
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.Properties.Resources.resources
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.exe
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.pdb
+C:\Users\straib01\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.csproj.ResolveComReference.cache
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\bin\Debug\Notes.exe.config
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.csproj.ResolveComReference.cache
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.exe
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.pdb
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\bin\Debug\Notes.exe
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\bin\Debug\Notes.pdb
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.Form1.resources
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\Notes.Properties.Resources.resources
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bill\Documents\Visual Studio 2010\Projects\Notes\Notes\obj\x86\Debug\ResGen.write.1.tlog

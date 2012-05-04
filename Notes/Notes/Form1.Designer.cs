@@ -98,7 +98,19 @@
             // 
             this.drpPrefabs.FormattingEnabled = true;
             this.drpPrefabs.Items.AddRange(new object[] {
+<<<<<<< HEAD
             "<nothing>"});
+=======
+            "<nothing>",
+            "Aircard Setup",
+            "Android Email Setup",
+            "Beyond Trust Repair",
+            "Blackberry Activation",
+            "ESS Portal Prompting for Password",
+            "Guest Wireless Password",
+            "HP 460/470 Installation",
+            "Windows Password"});
+>>>>>>> a649b4c37807889e279882f9c96323aebec7c276
             this.drpPrefabs.Location = new System.Drawing.Point(13, 30);
             this.drpPrefabs.Name = "drpPrefabs";
             this.drpPrefabs.Size = new System.Drawing.Size(121, 21);
